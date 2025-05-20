@@ -10,6 +10,6 @@ from .converter import (
 )
 
 from .terminal import (
-    print_colored_text,
-    print_color_block,
+    color_print,
+    color_block_print,
 )
