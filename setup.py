@@ -1,16 +1,18 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pycolortools",
-    version="0.1.0",
-    description="A Python library for color conversions and colored terminal output",
-    author="Quinten Teusink",
-    author_email="teusinq879@gmail.com",
-    url="https://github.com/jouwgebruikersnaam/pycolortools", 
+    name='colorutilsqt',
+    version='0.1.0',
+    author='Quinten Teusink',
+    description='A simple library to convert and print colors in terminal',
+    long_description=open('README.md', encoding='utf-8').read(),
+    long_description_content_type='text/markdown',
+    url='https://github.com/Quinosaur/pycolortools', 
     packages=find_packages(),
     classifiers=[
-        "Programming Language :: Python :: 3",
-        "Operating System :: OS Independent",
+        'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
     ],
     python_requires='>=3.6',
 )

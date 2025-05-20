@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+pycolortools/__init__.py
+pycolortools/converter.py
+pycolortools/terminal.py
+pycolortools.egg-info/PKG-INFO
+pycolortools.egg-info/SOURCES.txt
+pycolortools.egg-info/dependency_links.txt
+pycolortools.egg-info/top_level.txt
