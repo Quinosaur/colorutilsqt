@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='colorutilsqt',
-    version='0.1.2',
+    version='0.1.3',
     author='Quinten Teusink',
     description='A simple library to convert and print colors in terminal',
     long_description=open('README.md', encoding='utf-8').read(),
