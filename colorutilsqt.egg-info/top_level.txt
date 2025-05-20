@@ -1,1 +1,1 @@
-pycolortools
+colorutilsqt

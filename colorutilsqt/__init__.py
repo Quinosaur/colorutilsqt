@@ -12,4 +12,5 @@ from .converter import (
 from .terminal import (
     color_print,
     color_block_print,
+    fading_print,
 )
